@@ -17,8 +17,7 @@ A basic duck and toe game
 ### The Problem (that doesn't exist)
 noithing special
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+
 
 ## Technical Details
 ### Technologies/Components Used
@@ -29,14 +28,11 @@ For Software:
 
 ### Implementation
 For Software: java jdk
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
-For Software:
+For Software: just a basic duck and toe game with score board.
+duck score - 1
+toe score - 2
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here![WhatsApp Image 2024-10-26 at 09 13 22_d8c8cf5c](https://github.com/user-attachments/assets/18075099-45de-47cf-a774-fbc481f1ceb5)
