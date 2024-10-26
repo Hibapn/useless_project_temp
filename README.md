@@ -35,18 +35,15 @@ duck score - 1
 toe score - 2
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here![WhatsApp Image 2024-10-26 at 09 13 22_d8c8cf5c](https://github.com/user-attachments/assets/18075099-45de-47cf-a774-fbc481f1ceb5)
- with proper name)
-*Add caption explaining what this shows*
+[WhatsApp Image 2024-10-26 at 09 13 22_d8c8cf5c](https://github.com/user-attachments/assets/18075099-45de-47cf-a774-fbc481f1ceb5)
 
-!![Screenshot 2024-10-26 091335 1](https://github.com/user-attachments/assets/4634cf05-b6ab-4238-9e60-b661b53c55f0)
-[Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screensh![Screenshot 2024-10-26 091349 1](https://github.com/user-attachments/assets/5b5e9af5-6fe9-43d6-9ccd-80f1d71760c8)
+(https://github.com/user-attachments/assets/4634cf05-b6ab-4238-9e60-b661b53c55f0)
+[Screenshot2
+
+(https://github.com/user-attachments/assets/5b5e9af5-6fe9-43d6-9ccd-80f1d71760c8)
 ot3](Ad![WhatsApp Image 2024-10-26 at 09 13 22_ce2c2abc](https://github.com/user-attachments/assets/7bd9cf13-228a-45a0-a655-5ac21c712c5c)
-d screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
 
 
 
